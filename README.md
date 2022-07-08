@@ -1,2 +1,3 @@
-# Digital_Clock
-Show what time on your screen
+# Digital Clock
+
+**Hello Everyone!**
